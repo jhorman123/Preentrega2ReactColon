@@ -21,6 +21,7 @@ function NavBar() {
           <div className="text-sm lg:flex-grow">
             <Link to="/Home" className="block mt-4 lg:inline-block lg:mt-0 text-white hover:bg-blue-700 px-3 py-2 rounded-md">HOME</Link>
             <Link to="/Productos" className="block mt-4 lg:inline-block lg:mt-0 text-white hover:bg-blue-700 px-3 py-2 rounded-md">PRODUCTOS</Link>
+            <Link to="/Productos/Procesador" className="block mt-4 lg:inline-block lg:mt-0 text-white hover:bg-blue-700 px-3 py-2 rounded-md">PROCESADOR</Link>
             <Link to="/Nosotros" className="block mt-4 lg:inline-block lg:mt-0 text-white hover:bg-blue-700 px-3 py-2 rounded-md">NOSOTROS</Link>
             <Link to="/Contactanos" className="block mt-4 lg:inline-block lg:mt-0 text-white hover:bg-blue-700 px-3 py-2 rounded-md">CONTACTOS</Link>
           </div>
